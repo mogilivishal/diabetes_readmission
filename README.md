@@ -1,2 +1,2 @@
 # Predicting the Readmission to Hospitals for Diabetic Patients
-Checkout the Live Demo at : https://jarvis0400.eu-gb.mybluemix.net/ui/#!/0?socketid=CaCdeWVaG1E__1p4AAAA
+Checkout the Live Demo at : http://readmission-predictor.eu-gb.mybluemix.net/ui/#!/0?socketid=fJ_JAq_vsKWaDBxMAAAC
